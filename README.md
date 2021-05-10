@@ -3,6 +3,7 @@ README.md of Database Programming in DongDuk.W.Univ by Chaeyoon Kim.
 
 ## OutLine
 *개발 개요*
+
 매일매일이 똑같은 일상, 지루하고 피곤한 요즘 내 일상을 다이나믹하게 바꿔줄 수 있는 생활에 들어가봅니다.
 누구든 자신이 혼자 놀았던 기록이나 함께 놀았던 일상을 일기장에 적는 것처럼 기록을 하고 공유할 수 있습니다.
 
