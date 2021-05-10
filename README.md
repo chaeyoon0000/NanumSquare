@@ -107,7 +107,7 @@ README.md of Database Programming in DongDuk.W.Univ by Chaeyoon Kim.
 ```
 
 * Circle_파티원 모집 마감 스케쥴러 실행
-```
+```java
 public class JobScheduler {
     String cronExp;                    
     Class<? extends Job> clazz;
