@@ -40,7 +40,7 @@ README.md of Database Programming in DongDuk.W.Univ by Chaeyoon Kim.
 <img src="https://user-images.githubusercontent.com/79551041/117678825-b742bd00-b1ea-11eb-8b18-a6b9a67e6f75.png" width="700" height="500">
 
 #### Game
-<img src="https://user-images.githubusercontent.com/79551041/117678883-c4f84280-b1ea-11eb-994a-ef8ba0415c3c.png" width="700" 
+<img src="https://user-images.githubusercontent.com/79551041/117678883-c4f84280-b1ea-11eb-994a-ef8ba0415c3c.png" width="700" height="500">
 
 ## System Configuration Map
 <img src="https://user-images.githubusercontent.com/79551041/117679139-f6710e00-b1ea-11eb-939c-8b3bb9916c25.png" width="700" height="500">
